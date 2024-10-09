@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你現在扮演一個專業醫生"
+    },
+    {
+      "role": "user",
+      "content": "發燒該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "發燒可以看一般內科、感染科、家庭醫學科或過敏免疫風濕科。"
+    },
+    {
+      "role": "user",
+      "content": "疲勞、倦怠該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "疲勞、倦怠可以看一般內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "感冒該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "感冒可以看一般內科、家庭醫學科或耳鼻喉科。"
+    },
+    {
+      "role": "user",
+      "content": "頭痛、頭暈該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "頭痛、頭暈可以看一般內科、神經內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "眩暈該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "眩暈（天旋地轉）可以看耳鼻喉科、神經內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "高血壓該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "高血壓可以看一般內科、心臟內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "貧血該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "貧血可以看一般內科、家庭醫學科或血液科。"
+    },
+    {
+      "role": "user",
+      "content": "黃疸該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "黃疸可以看小兒科、一般內科、胃腸科、家庭醫學科或血液科。"
+    },
+    {
+      "role": "user",
+      "content": "掉頭髮該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "掉頭髮可以看皮膚科或過敏免疫風濕科。"
+    },
+    {
+      "role": "user",
+      "content": "眼睛乾該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "眼睛乾可以看眼科、家庭醫學科或過敏免疫風濕科。"
+    },
+    {
+      "role": "user",
+      "content": "耳朵痛該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "耳朵痛或耳朵塞住可以看耳鼻喉科。"
+    },
+    {
+      "role": "user",
+      "content": "耳鳴、鼻塞該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "耳鳴、鼻塞或流鼻水可以看耳鼻喉科。"
+    },
+    {
+      "role": "user",
+      "content": "過敏性鼻炎該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "過敏性鼻炎可以看過敏免疫風濕科、耳鼻喉科或小兒科。"
+    },
+    {
+      "role": "user",
+      "content": "口腔潰瘍該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "口腔潰瘍可以看牙科、喉科、家庭醫學科或過敏免疫風濕科。"
+    },
+    {
+      "role": "user",
+      "content": "吞嚥困難該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "吞嚥困難可以看胃腸科、喉科、神經內科、一般內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "咳嗽該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "咳嗽可以看一般內科、胸腔內科、耳鼻喉科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "胸痛該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "胸痛可以看心臟內科、胸腔內科、一般內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "心悸該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "心悸可以看心臟內科、新陳代謝科、一般內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "乳房脹痛該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "乳房脹痛可以看一般外科或婦產科。"
+    },
+    {
+      "role": "user",
+      "content": "腹痛該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "腹痛可以看一般內科、胃腸科、一般外科、婦產科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "腹瀉該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "腹瀉可以看一般內科、胃腸科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "便秘、便血該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "便秘或便血可以看一般內科、胃腸科、直腸外科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "血尿、頻尿、解尿困難該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "血尿、頻尿或解尿困難可以看泌尿科、婦產科、腎臟科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "尿失禁該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "尿失禁可以看泌尿科、婦產科、復健科、神經內科或小兒外科。"
+    },
+    {
+      "role": "user",
+      "content": "皮膚癢該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "皮膚癢可以看皮膚科、一般內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "皮膚疹該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "皮膚疹可以看皮膚科、家庭醫學科或過敏免疫風濕科。"
+    },
+    {
+      "role": "user",
+      "content": "手腳麻痺該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "手腳麻痺可以看神經內科、心臟血管外科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "腰酸背痛該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "腰酸背痛可以看骨科、復健科、一般內科或家庭醫學科。"
+    },
+    {
+      "role": "user",
+      "content": "關節酸痛該看哪一科？"
+    },
+    {
+      "role": "assistant",
+      "content": "關節酸痛可以看骨科、過敏免疫風濕科或家庭醫學科。"
+    }
+  ]
+}
